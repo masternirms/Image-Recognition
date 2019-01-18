@@ -21,7 +21,7 @@ pip3 install requirements.txt
 ```
 
 # Usage
-To run the program, you just have to run the following command:
+To run the program, enter the following command in your terminal:
 ```bash
 Python3 KNNClassifier.py
 ```
