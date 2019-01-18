@@ -28,12 +28,21 @@ Python3 KNNClassifier.py
 
 # Directory Layout
 ## Training Directory
- <train_directory_path>/
-        ├── <person1>/
+ <train_directory_path>
+ 
+        ├── <person1>
+        
         │   ├── <somename1>.jpeg
+        
         │   ├── <somename2>.jpeg
+        
         │   ├── ...
-        ├── <person2>/
+        
+        ├── <person2>
+        
         │   ├── <somename1>.jpeg
+        
         │   └── <somename2>.jpeg
+        
         └── ...
+        
