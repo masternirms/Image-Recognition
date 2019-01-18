@@ -30,19 +30,12 @@ Python3 KNNClassifier.py
 ## Training Directory
  <train_directory_path>
  
-        ├── <person1>
-        
-        │   ├── <somename1>.jpeg
-        
-        │   ├── <somename2>.jpeg
-        
-        │   ├── ...
-        
-        ├── <person2>
-        
-        │   ├── <somename1>.jpeg
-        
-        │   └── <somename2>.jpeg
-        
+        ├── <person1>      
+        │   ├── <somename1>.jpeg      
+        │   ├── <somename2>.jpeg       
+        │   ├── ...      
+        ├── <person2>        
+        │   ├── <somename1>.jpeg        
+        │   └── <somename2>.jpeg        
         └── ...
         
