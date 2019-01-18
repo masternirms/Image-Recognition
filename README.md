@@ -12,6 +12,7 @@ A user-friendly implementation of Adam Geitgey's Facial Recognition Python libra
 Make sure you have both Python and dlib installed on your laptop:
 - [Installing dlib on macOS or Ubuntu](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf)
 - [Installing dlib on Windows](https://github.com/ageitgey/face_recognition/issues/175#issue-257710508)
+
 This program is meant to be run on macOS or Linux and running it on Windows may take longer to set up.
 
 After this, you can installed the required libraries using the requirements.txt file provided:
