@@ -28,14 +28,44 @@ Python3 KNNClassifier.py
 
 # Directory Layout
 ## Training Directory
- <train_directory_path>
- 
+
+        <train_directory_path>
         ├── <person1>      
         │   ├── <somename1>.jpeg      
         │   ├── <somename2>.jpeg       
-        │   ├── ...      
+        │   └── ...      
         ├── <person2>        
         │   ├── <somename1>.jpeg        
-        │   └── <somename2>.jpeg        
+        │   └── <somename2>.jpeg 
+        │   └── ...
+        │
         └── ...
+        
+## Predicting Directory
+
+        <predict_directory_path>
+        ├── <photo1>.jpeg      
+        ├── <photo2>.jpeg 
+        ├── <photo3>.jpeg 
+        ├── <photo4>.jpeg       
+        ├── <photo5>.jpeg         
+        ├── <photo6>.jpeg         
+        ├── <photo7>.jpeg  
+        └── ...
+        
+## Retrieve Directory
+
+        <train_directory_path>
+        ├── <person1>      
+        │   ├── <photo1>.jpeg      
+        │   ├── <photo2>.jpeg       
+        │   └── ...     
+        ├── <person2>        
+        │   ├── <photo1>.jpeg        
+        │   └── <photo3>.jpeg
+        │   └── <photo5>.jpeg
+        │   └── <photo6>.jpeg
+        │   └── ... 
+        │
+        └── ... 
         
