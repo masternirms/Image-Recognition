@@ -17,7 +17,7 @@ This program is meant to be run on macOS or Linux and running it on Windows may 
 
 After this, you can installed the required libraries using the requirements.txt file provided:
 ```bash
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 # Usage
