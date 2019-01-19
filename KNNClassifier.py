@@ -15,17 +15,6 @@ def train(train_directory_path, model_save_path=None, n_neighbors=None, knn_algo
     """
     Trains a k-nearest neighbors classifier for face recognition.
     :param train_directory_path: directory that contains a sub-directory for each known person, with its name.
-     (View in source code to see train_directory_path example tree structure)
-     Structure:
-        <train_directory_path>/
-        ├── <person1>/
-        │   ├── <somename1>.jpeg
-        │   ├── <somename2>.jpeg
-        │   ├── ...
-        ├── <person2>/
-        │   ├── <somename1>.jpeg
-        │   └── <somename2>.jpeg
-        └── ...
     :param model_save_path: (optional) path to save model on disk
     :param n_neighbors: (optional) number of neighbors to weigh in classification. Chosen automatically if not specified
     :param knn_algo: (optional) underlying data structure to support knn.default is ball_tree
