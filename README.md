@@ -28,7 +28,7 @@ Python3 KNNClassifier.py
 
 # Directory Layout
 This is how each directory should look like while passing it through the program:
-## Training Directory
+### Training Directory
 
         <train_directory_path>
         ├── <person1>      
@@ -42,7 +42,7 @@ This is how each directory should look like while passing it through the program
         │
         └── ...
         
-## Predicting Directory
+### Predicting Directory
 
         <predict_directory_path>
         ├── <photo1>.jpeg      
@@ -54,7 +54,7 @@ This is how each directory should look like while passing it through the program
         ├── <photo7>.jpeg  
         └── ...
         
-## Retrieve Directory
+### Retrieve Directory
 
         <train_directory_path>
         ├── <person1>      
