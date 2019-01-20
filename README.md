@@ -15,7 +15,7 @@ Make sure you have both Python and dlib installed on your laptop:
 
 This program is meant to be run on macOS or Linux and running it on Windows may take longer to set up.
 
-After this, you can installed the required libraries using the requirements.txt file provided:
+After this, you can install the required libraries using the requirements.txt file provided:
 ```bash
 pip3 install -r requirements.txt
 ```
